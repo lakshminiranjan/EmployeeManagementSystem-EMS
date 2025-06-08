@@ -137,4 +137,3 @@ Below are some screenshots of the application in action:
 
 ---
 
-**Feel free to update this README with your actual screenshots, deployment URL, and any additional documentation as needed.** 
