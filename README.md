@@ -106,7 +106,7 @@ Below are some screenshots of the application in action:
 ![{6730BA03-1C50-4380-B78E-3F58795F1CF3}](https://github.com/user-attachments/assets/78b9120b-c8ad-4d65-bdb2-6abf0637535e)
 
 
-> _Replace `<add-path-to-...>` with the actual image paths or URLs. Use the `description` field in the image tag to describe each screenshot._
+
 
 ## How to Run the Project
 
