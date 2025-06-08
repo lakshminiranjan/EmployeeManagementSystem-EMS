@@ -86,8 +86,7 @@ Below are some screenshots of the application in action:
 ![image](https://github.com/user-attachments/assets/15383a65-d5df-429f-b0ee-9e7b7628e072)
 
 ### Dashboard / Employee List
-![image](https://github.com/user-attachments/assets/bbf86032-776d-48c0-a104-046d1952c696)
-
+![image](https://github.com/user-attachments/assets/7c11a43a-8514-4758-98ca-2de6941473a0)
 
 ### Add Employee Modal
 ![image](https://github.com/user-attachments/assets/a8106217-142b-4985-b0b3-c26de6f29132)
