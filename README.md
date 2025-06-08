@@ -80,7 +80,8 @@ EMS/
 Below are some screenshots of the application in action:
 
 ### Login Page
-![Login Page](<add-path-to-login-screenshot>)
+![image](https://github.com/user-attachments/assets/178ed885-4183-4598-b75e-103ace2e3a25)
+
 
 ### Dashboard / Employee List
 ![Dashboard](<add-path-to-dashboard-screenshot>)
