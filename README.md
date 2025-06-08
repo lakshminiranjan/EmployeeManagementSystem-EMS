@@ -82,15 +82,30 @@ Below are some screenshots of the application in action:
 ### Login Page
 ![image](https://github.com/user-attachments/assets/178ed885-4183-4598-b75e-103ace2e3a25)
 
+### Register Page
+![image](https://github.com/user-attachments/assets/15383a65-d5df-429f-b0ee-9e7b7628e072)
 
 ### Dashboard / Employee List
-![Dashboard](<add-path-to-dashboard-screenshot>)
+![image](https://github.com/user-attachments/assets/bbf86032-776d-48c0-a104-046d1952c696)
 
-### Add/Edit Employee Modal
-![Add/Edit Modal](<add-path-to-modal-screenshot>)
 
-### Database Schema
-![Database Schema](<add-path-to-db-schema-screenshot>)
+### Add Employee Modal
+![image](https://github.com/user-attachments/assets/a8106217-142b-4985-b0b3-c26de6f29132)
+
+### View Employee Modal
+![image](https://github.com/user-attachments/assets/3fc1353a-d213-43a6-b2e3-b3ef33e09cb9)
+
+### Edit Employee Modal
+![image](https://github.com/user-attachments/assets/47e79aea-4721-4cac-9003-0ad4c60fe40b)
+
+
+## API Swagger Image
+![image](https://github.com/user-attachments/assets/f9c19557-da04-4ea4-a446-d6170f15788a)
+
+
+## Database Schema
+![{6730BA03-1C50-4380-B78E-3F58795F1CF3}](https://github.com/user-attachments/assets/78b9120b-c8ad-4d65-bdb2-6abf0637535e)
+
 
 > _Replace `<add-path-to-...>` with the actual image paths or URLs. Use the `description` field in the image tag to describe each screenshot._
 
