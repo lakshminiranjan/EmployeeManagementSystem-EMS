@@ -1,4 +1,4 @@
-# Employee Management System (EMS)
+Ki# Employee Management System (EMS)
 
 ## Objective
 - Develop an employee management system that incorporates features ensuring reusability, security, and functionality.
@@ -72,9 +72,9 @@ EMS/
   - All CRUD (Create, Update, Read, Delete) operations are available from the dashboard UI.
 
 ## Deliverables
-- **GitHub repository URL:** [Add your repo link here]
+- **GitHub repository URL:** https://github.com/lakshminiranjan/EmployeeManagementSystem-EMS
 - **Project Documentation:** (This README)
-- **Deployment URL:** (Optional, add if deployed)
+- **Deployment URL:** Not Deployed Yet. 
 
 ## Output Screenshots
 Below are some screenshots of the application in action:
