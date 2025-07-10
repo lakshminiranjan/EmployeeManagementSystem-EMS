@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EMS_Server.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250608014935_Initial Migration")]
-    partial class InitialMigration
+    [Migration("20250710153824_InitialCreateForSqlServer")]
+    partial class InitialCreateForSqlServer
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

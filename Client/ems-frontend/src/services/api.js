@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:7289/api';  // Changed to HTTP for local development
+const API_URL = 'https://localhost:7289/api';  // Changed to HTTP for local development
 
 const api = axios.create({
     baseURL: API_URL,

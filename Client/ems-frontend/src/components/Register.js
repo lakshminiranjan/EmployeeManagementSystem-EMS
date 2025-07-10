@@ -84,8 +84,8 @@ const Register = ({ onRegister }) => {
                                     />
                                 </div>
                                 <div className="d-grid">
-                                    <button 
-                                        type="submit" 
+                                    <button
+                                        type="submit"
                                         className="btn btn-primary"
                                         disabled={isLoading}
                                     >
