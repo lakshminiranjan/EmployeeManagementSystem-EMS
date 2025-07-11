@@ -22,6 +22,12 @@ const Login = ({ onLogin }) => {
         } catch (err) {
             console.error('Login error:', err);
             if (err.response) {
+                if (err.response.status === 401) {
+                    window.alert('Session expired. Please login again.');
+                    localStorage.removeItem('token');
+                    onLogin(); // This should redirect to login
+                    return;
+                }
                 setError(err.response.data.message || 'Invalid credentials');
             } else if (err.request) {
                 setError('Unable to connect to the server. Please check your internet connection.');
